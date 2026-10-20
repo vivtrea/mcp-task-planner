@@ -1,0 +1,6 @@
+task_id,task_name,priority,category,state,due_date
+T-101,Finish NLP Persuasion Annotation,9,Study,in process,2026-10-25
+T-102,Submit AI RL Milestone,10,Study,yet to be started,2026-10-28
+T-103,Buy groceries for dinner,4,Personal,done,2026-10-18
+T-104,Gym workout - Chest and Triceps,7,Health,yet to be started,2026-10-20
+T-105,Review MCP slides,8,Study,yet to be started,2026-10-30
