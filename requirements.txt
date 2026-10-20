@@ -1,0 +1,16 @@
+# MCP Framework & Stdio Transport
+mcp>=1.0.0
+
+# LLM Client (OpenAI-compatible client for Groq API)
+openai>=1.0.0
+groq>=0.4.0
+
+# Environment variables management
+python-dotenv>=1.0.0
+
+# Data manipulation (for CSV storage & evaluations)
+pandas>=2.0.0
+
+# Async support & utilities
+asyncio>=3.4.3
+pydantic>=2.0.0
